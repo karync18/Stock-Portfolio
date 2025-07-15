@@ -1,4 +1,4 @@
-# Stock-Portfolio
+# Stock-Portfolio-Analysis
 This study aims to evaluate whether aggressive or defensive stocks provide superior riskadjusted returns for investors seeking to optimize their portfolios during the ongoing tariff wars. Considering the heightened market volatility caused by the implementation of reciprocal tariffs in April 2025, we also touched on identifying financial instruments that can help maximize riskreturn tradeoff for individual investors. 
 
 ## Research Methodology
